@@ -6,7 +6,7 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 ## Venue 
 
-This year, NEMISIG will be in Newark NJ, at NJIT.
+This year, NEMISIG will be in Newark NJ, at NJIT. **[Click Here to Register!](https://docs.google.com/forms/d/e/1FAIpQLSd8qFsX0E-iSvKRIPhZrjBxCZ3pJn8I4xrWtzYY0y7db0oDuw/viewform).**
 
 **It will be on Saturday, June 4th 2022 in the Campus Center, in the Faculty Dining Hall (2nd Floor CC) and Campus Center Terrace.**
 
@@ -43,4 +43,4 @@ Most Hotels are only a 10-15 minute drive to NJIT and are located either in Down
 
 [AirBnBs](https://www.airbnb.com/s/Newark--NJ/all) are also an option, with an average price around $70-110.
 
-*We hope you will enjoy your time here attending NEMISIG 2022!*
+*We hope you will enjoy your time here attending NEMISIG 2022! As a reminder, [click here to register](https://docs.google.com/forms/d/e/1FAIpQLSd8qFsX0E-iSvKRIPhZrjBxCZ3pJn8I4xrWtzYY0y7db0oDuw/viewform) so we can plan accordingly!*
