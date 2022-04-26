@@ -2,13 +2,13 @@
 
 NEMISIG (North East Music Information Special Interest Group) is a yearly informal meeting for Music Information Retrieval researchers who work at the intersection of computer science, mathematics, and music. NEMISIG gathers researchers from the Northeastern United States and has previously been hosted at Columbia (2008, 2014), NYU (2010), Drexel (2011, 2016), Dartmouth (2012), The Echo Nest (2013), Ithaca College (2015), University of Rochester (2017), Brown University (2018), Brooklyn College (2019) and Smith College (2020)
 
+[Register](https://docs.google.com/forms/d/e/1FAIpQLSd8qFsX0E-iSvKRIPhZrjBxCZ3pJn8I4xrWtzYY0y7db0oDuw/viewform) here by **May 26, 2022**. There is no cost to register, but you must register to attend so that we can plan accordingly.
+
 If you have any questions, please direct them to the [Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
 
 ## Venue 
 
-This year, NEMISIG will be in Newark NJ, at NJIT. **[Click Here to Register!](https://docs.google.com/forms/d/e/1FAIpQLSd8qFsX0E-iSvKRIPhZrjBxCZ3pJn8I4xrWtzYY0y7db0oDuw/viewform).**
-
-**It will be on Saturday, June 4th 2022 in the Campus Center on NJIT's Newark campus.**
+This year, NEMISIG will be in Newark, NJ at New Jersey Institute of Technology (NJIT), June 4th, 2022. It is hosted by Mark Cartwright tof the [Department of Informatics](https://informatics.njit.edu/). It will held in the Campus Center on NJIT's Newark campus.
 
 ![NJIT](/images/njit.jpg)
 
