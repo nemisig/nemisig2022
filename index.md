@@ -20,18 +20,33 @@ The start on the map indicates the location of the NJIT Campus Center where NEMI
 
 Parking is available in the designated lots. Click [here](https://www.google.com/maps/place/NJIT+Parking+Deck/@40.7404915,-74.18098,17z/data=!4m12!1m6!3m5!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!2sNJIT+Parking+Deck!8m2!3d40.7404875!4d-74.1787913!3m4!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!8m2!3d40.7404875!4d-74.1787913) for the Google Map pin of our parking garage.
 
+## Schedule
+TBD
+
 ## About Newark
 
 [Newark](https://www.newarknj.gov/), the most populous city in NJ, is located within New Jersey's Essex County, just 8 miles from New York City. 
 Newark is rich with culture, whether it's an exhibit at one of the many local art galleries, a trip to the Newark Museum, or a concert at the Prudential Center, there is always something happening here. It is well known for both the delicious Portuguese, Brazilian, and Spanish resturants in the Ironbound district, and for Branch Brook Park with its 360 Acres of meadows, trails, and one of the largest collections of cherry blossom trees in the nation.
 
+
+## Travel and Accomodations
 ### Getting to NJIT
 
-NJIT can easily accessible by both car and public transportation (i.e., the Warren Street stop on the Newark Light Rail is directly oustide the university). For details on getting to NJIT, please see the [NJIT website](https://www.njit.edu/about/visiting-njit). 
+NJIT can easily accessible by both car and public transportation.
+
+- **Subway**: NJIT is located at the Warren Street stop on the Newark Lightrail
+- **From Amtrak (Newark Penn Station)**: You can take the Newark Lightrail to Warren Street (5 minutes)
+- **From Amtrak (New York Penn Station)**: You can take the NJTransit Morris & Essex Line to Newark-Broad Street (20 minutes), and then walk to campus (15 minutes)
+- **From Port Authority Bus Terminal in Midtown Manhattan**: You can take NJTransit Bus No 108 (30 minutes)
+- **From World Trade Center in Downtown Manhattan**: you can take the Newark bound PATH train to get to Newark-Penn station, and then take the Newark Lightrail to Warren Street (30 minutes)
+- **From Newark International Airport**: you can take the GO28 Newark Bloomfield via Broad St to Lombardy St (15 minutes) and walk to campus (15 minutes)
+
+
+For more details on getting to NJIT, please see the [NJIT website](https://www.njit.edu/about/visiting-njit). 
 
 
  
-### Staying in Newark
+### Staying near NJIT
 
 There are several hotels nearby in the areas of Downtown Newark and Harrison (price quotes are approximate):
 
