@@ -8,7 +8,7 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 This year, NEMISIG will be in Newark NJ, at NJIT. **[Click Here to Register!](https://docs.google.com/forms/d/e/1FAIpQLSd8qFsX0E-iSvKRIPhZrjBxCZ3pJn8I4xrWtzYY0y7db0oDuw/viewform).**
 
-**It will be on Saturday, June 4th 2022 in the Campus Center, in the Faculty Dining Hall (2nd Floor CC) and Campus Center Terrace.**
+**It will be on Saturday, June 4th 2022 in the Campus Center on NJIT's Newark campus.**
 
 ![NJIT](/images/njit.jpg)
 
@@ -20,22 +20,18 @@ Parking is available in the designated lots. Click [here](https://www.google.com
 
 ## About Newark
 
-[Newark](https://www.newarknj.gov/) , the most populous city in NJ, is located within Essex County and is a part of the NYC Metropolitan Area. Newark is home to Branch Brook Park, with 360 Acres of meadows and trails, complete with fields and playgrounds as well one of the largest collections of cherry blossom trees on the Northeast. Just a short, accessible train ride from NYC through Newark-Penn Station.
+[Newark](https://www.newarknj.gov/), the most populous city in NJ, is located within New Jersey's Essex County, just 8 miles from New York City. 
+Newark is rich with culture, whether it's an exhibit at one of the many local art galleries, a trip to the Newark Museum, or a concert at the Prudential Center, there is always something happening here. It is well known for both the delicious Portuguese, Brazilian, and Spanish resturants in the Ironbound district, and for Branch Brook Park with its 360 Acres of meadows, trails, and one of the largest collections of cherry blossom trees in the nation.
 
-Newark has an outstanding sense of culture as well, whether it's an exhibit at one of the many local art galleries, or a trip to the Newark Museum, or a concert at the Prudential Center, there is always something happening here -- as well as tons of delicious Portuguese, Brazilian, and Spanish resturants in the ironbound district
 ### Getting to NJIT
 
-- **NJIT can be directly accessed through the Lightrail at Newark-Penn Station, there is a stop directly outside the university on Warren Street.**
-- **From Penn Station in NYC, you can take the Montclair-Boonton Line to Newark-Broad Street, and then walk for around 5 minutes.**
-- **From WTC in NYC, you can take the Newark bound PATH train to get to Newark-Penn station, and then board the Lightrail to get right outside of NJIT.**
-- **If you are landing at Newark International Airport, you can take the GO28 Newark Bloomfield via Broad St.**
-- **By bus, you can also take the 108, there is a bus stop right outside of NJIT as well.**
+NJIT can easily accessible by both car and public transportation (i.e., the Warren Street stop on the Newark Light Rail is directly oustide the university). For details on getting to NJIT, please see the [NJIT website](https://www.njit.edu/about/visiting-njit). 
 
 
  
 ### Staying in Newark
 
-Most Hotels are only a 10-15 minute drive to NJIT and are located either in Downtown Newark or in the neighboring area Harrison. There are two hotels in Northampton and one in Florence (a village of Northampton). Price quotes are approximate, based on a quick Google search:
+There are several hotels nearby in the areas of Downtown Newark and Harrison (price quotes are approximate):
 
 - **[Hampton Inn & Suites Newark-Harrison-Riverwalk](https://www.hilton.com/en/hotels/nwkhshx-hampton-suites-newark-harrison-riverwalk/):** $180/night
 - **[Marriot Downtown Newark](https://www.marriott.com/en-us/hotels/ewrdt-courtyard-newark-downtown/overview/):** $136/Night
