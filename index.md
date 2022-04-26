@@ -8,7 +8,7 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 ## Venue 
 
-This year, NEMISIG will be in Newark, NJ at New Jersey Institute of Technology (NJIT), June 4th, 2022. It is hosted by Mark Cartwright tof the [Department of Informatics](https://informatics.njit.edu/). It will held in the Campus Center on NJIT's Newark campus.
+This year, NEMISIG will be in Newark, NJ at New Jersey Institute of Technology (NJIT), June 4th, 2022. It is hosted by Mark Cartwright of the [Department of Informatics](https://informatics.njit.edu/). It will held in the Campus Center on NJIT's Newark campus.
 
 ![NJIT](/images/njit.jpg)
 
