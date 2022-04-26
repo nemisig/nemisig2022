@@ -13,7 +13,7 @@ This year, NEMISIG will be in Newark, NJ at New Jersey Institute of Technology (
 ![NJIT](/images/njit.jpg)
 
 ## Schedule
-TBD
+Exact schedule is TBD, but the structure will be similar to previous NEMISIGs, i.e., lab talks, posters, and breakout sessions.
 
 ## About Newark
 
