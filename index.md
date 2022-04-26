@@ -16,6 +16,8 @@ This year, NEMISIG will be in Newark NJ, at NJIT. **[Click Here to Register!](ht
 
 ![A Map of NJIT](/images/njitmap.png)
 
+The start on the map indicates the location of the NJIT Campus Center where NEMISIG will take place.
+
 Parking is available in the designated lots. Click [here](https://www.google.com/maps/place/NJIT+Parking+Deck/@40.7404915,-74.18098,17z/data=!4m12!1m6!3m5!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!2sNJIT+Parking+Deck!8m2!3d40.7404875!4d-74.1787913!3m4!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!8m2!3d40.7404875!4d-74.1787913) for the Google Map pin of our parking garage.
 
 ## About Newark
