@@ -8,12 +8,29 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 ## Venue 
 
-This year, NEMISIG will be in Newark, NJ at New Jersey Institute of Technology (NJIT), June 4th, 2022. It is hosted by Mark Cartwright of the [Department of Informatics](https://informatics.njit.edu/). It will held in the Campus Center on NJIT's Newark campus.
+This year, NEMISIG will be in Newark, NJ at New Jersey Institute of Technology (NJIT), June 4th, 2022. It is hosted by Mark Cartwright of the [Department of Informatics](https://informatics.njit.edu/). It will held in the Central King Building (in room 116) on NJIT's Newark campus.
 
 ![NJIT](/images/njit.jpg)
 
 ## Schedule
-Exact schedule is TBD, but the structure will be similar to previous NEMISIGs, i.e., lab talks, posters, and breakout sessions.
+
+Saturday, June 4, 2022
+
+In Central King Building, Room 116 (CKB 116) except where noted:
+
+* 09:30am to 10:00am -- Check in, coffee, and pastries 
+* 10:00am to 10:15am -- Welcome remarks 
+* 10:15am to 11:30am -- Lab talks
+* 11:30am to 01:00pm -- Poster session   
+
+* 01:00pm to 02:00pm -- Food (provided) (*on Campus Center Terrace*)
+
+* 02:00pm to 02:30pm -- Discussion of breakout session topics
+* 02:30pm to 03:30pm -- Break out session 1
+* 03:30pm to 04:00pm -- Coffee break
+* 04:00pm to 05:00pm -- Break out session 2
+* 05:00pm to 05:30pm -- Breakout session recap and closing remarks
+
 
 ## About Newark
 
@@ -24,9 +41,9 @@ Newark is rich with culture, whether it's an exhibit at one of the many local ar
 ## Travel and Accomodations
 ### Local Map & Parking
 
-![A Map of NJIT](/images/njitmap.png)
+![A Map of NJIT](/images/njitmap.jpg)
 
-The start on the map indicates the location of the NJIT Campus Center where NEMISIG will take place.
+The star on the map indicates the location of NJIT's Central King Building (CKB) where NEMISIG will take place.
 
 Parking is available in the designated lots. Click [here](https://www.google.com/maps/place/NJIT+Parking+Deck/@40.7404915,-74.18098,17z/data=!4m12!1m6!3m5!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!2sNJIT+Parking+Deck!8m2!3d40.7404875!4d-74.1787913!3m4!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!8m2!3d40.7404875!4d-74.1787913) for the Google Map pin of our parking garage.
 
