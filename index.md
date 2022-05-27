@@ -23,7 +23,7 @@ In Central King Building, Room 116 (CKB 116) except where noted:
 * 10:15am to 11:30am -- Lab talks
 * 11:30am to 01:00pm -- Poster session   
 
-* 01:00pm to 02:00pm -- Food (provided) (*on Campus Center Terrace*)
+* 01:00pm to 02:00pm -- Lunch (provided) (*on Campus Center Terrace*)
 
 * 02:00pm to 02:30pm -- Discussion of breakout session topics
 * 02:30pm to 03:30pm -- Break out session 1
