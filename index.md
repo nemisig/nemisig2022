@@ -73,4 +73,4 @@ There are several hotels nearby in the areas of Downtown Newark and Harrison (pr
 
 [AirBnBs](https://www.airbnb.com/s/Newark--NJ/all) are also an option, with an average price around $70-110.
 
-*We hope you will enjoy your time here attending NEMISIG 2022! As a reminder, [click here to register](https://docs.google.com/forms/d/e/1FAIpQLSd8qFsX0E-iSvKRIPhZrjBxCZ3pJn8I4xrWtzYY0y7db0oDuw/viewform) so we can plan accordingly!*
+*We hope you will enjoy your time here attending NEMISIG 2022!*
