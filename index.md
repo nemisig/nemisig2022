@@ -26,9 +26,9 @@ In Central King Building, Room 116 (CKB 116) except where noted:
 * 01:00pm to 02:00pm -- Lunch (provided) (*on Campus Center Terrace*)
 
 * 02:00pm to 02:30pm -- Discussion of breakout session topics
-* 02:30pm to 03:30pm -- Break out session 1
+* 02:30pm to 03:30pm -- Breakout session 1
 * 03:30pm to 04:00pm -- Coffee break
-* 04:00pm to 05:00pm -- Break out session 2
+* 04:00pm to 05:00pm -- Breakout session 2
 * 05:00pm to 05:30pm -- Breakout session recap and closing remarks
 
 
