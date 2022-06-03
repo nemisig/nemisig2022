@@ -18,7 +18,7 @@ Saturday, June 4, 2022
 
 In Central King Building, Room 116 (CKB 116) except where noted:
 
-* 09:30am to 10:00am -- Check in, coffee, and pastries 
+* 09:00am to 10:00am -- Check in, coffee, and pastries 
 * 10:00am to 10:15am -- Welcome remarks 
 * 10:15am to 11:30am -- Lab talks
 * 11:30am to 01:00pm -- Poster session   
